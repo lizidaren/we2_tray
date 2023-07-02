@@ -1,0 +1,6 @@
+距离比赛
+还有
+7
+天
+@ DAYS TILL THE MATCH
+./bg.jpg
